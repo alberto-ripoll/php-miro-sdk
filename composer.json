@@ -1,5 +1,5 @@
 {
-    "name": "alberto/php-miro-sdk",
+    "name": "ripoll/php-miro-sdk",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -8,7 +8,7 @@
     },
     "authors": [
         {
-            "name": "Alberto",
+            "name": "Alberto Ripoll",
             "email": "alberto.g.ripoll@gmail.com"
         }
     ],
