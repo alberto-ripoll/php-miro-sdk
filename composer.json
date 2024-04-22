@@ -1,0 +1,21 @@
+{
+    "name": "alberto/php-miro-sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ripoll\\PhpMiroSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alberto",
+            "email": "alberto.g.ripoll@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    }
+}
